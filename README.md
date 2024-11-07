@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ahmed Mohamed" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedMohamed056" />
 </div>
 
 ###
@@ -65,8 +65,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed Mohamed&show_icons=true&theme=dark" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=yourusername&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohamed056&show_icons=true&theme=dark" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=AhmedMohamed056&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak" />
 </div>
 
 ###
