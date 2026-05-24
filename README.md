@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋, I'm Ahmed Mohamed</h1>
+<h1 align="center">Hey there 👋, I'm Ahmed Rayyan</h1>
 
 ###
 
