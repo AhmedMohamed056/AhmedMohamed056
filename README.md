@@ -19,7 +19,7 @@
 ##
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedMohamed056" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=AhmedMohamed056&color=ff6f00&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 </div>
 
 ##
@@ -110,21 +110,29 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohamed056&show_icons=true&theme=dark&hide_border=false&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedMohamed056&show_icons=true&theme=dark&hide_border=false&count_private=true&border_radius=5" height="165" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=AhmedMohamed056&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="165" alt="GitHub Streak" />
 </div>
 
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohamed056&layout=compact&langs_count=8&theme=dark&hide_border=false&border_radius=5" height="165" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMohamed056&theme=react-dark&hide_border=true&bg_color=1F2229&color=A9FEF2&line=26C6DA&point=FFFFFF" height="165" alt="Contribution Graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedMohamed056&layout=compact&langs_count=8&theme=dark&hide_border=false&border_radius=5" height="195" alt="Top Languages" />
+  <img src="https://activity-graph.vercel.app/graph?username=AhmedMohamed056&theme=react-dark&hide_border=true&bg_color=1F2229&color=A9FEF2&line=26C6DA&point=FFFFFF" height="195" alt="Contribution Graph" />
 </div>
 
 ##
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedMohamed056&theme=darkhub&no-frame=true&row=1&column=7&margin-w=6&margin-h=6" width="100%" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedMohamed056&theme=github_dark" height="180" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedMohamed056&theme=github_dark" height="180" alt="Most committed languages" />
+</div>
+
+##
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedMohamed056&theme=github_dark" height="180" alt="Commit stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmedMohamed056&theme=github_dark" height="180" alt="Productive time" />
 </div>
 
 ##
