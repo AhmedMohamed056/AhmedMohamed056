@@ -97,7 +97,8 @@
   🔗 <b><a href="https://github.com/AhmedMohamed056/Smart-Assistant">Smart-Assistant</a></b> -- Context-aware RAG engine for e-commerce customer support with PDF upload and conversational memory.<br>
   🔗 <b><a href="https://github.com/AhmedMohamed056/AI-Study-Companion-v2">AI-Study-Companion-v2</a></b> -- Full-stack learning platform with AI lecture summarization, flashcards, spaced repetition, and quiz generation.<br>
   🔗 <b><a href="https://github.com/AhmedMohamed056/cloud-project">cloud-project</a></b> -- End-to-end LLM assistant on AWS: Terraform provisioning, PySpark preprocessing on EMR, and QLoRA fine-tuned Llama 3.2.<br>
-  🔗 <b><a href="https://github.com/AhmedMohamed056/Examac">Examac</a></b> -- Android exam application with automatic exam IDs, text recognition (ML Kit), and Firebase.<br>
+  🔗 <b><a href="https://github.com/Rome-Squad/CineVerse-App">CineVerse</a></b> -- Team project: modular video-on-demand Android app with search, authentication, and user collections (Kotlin, Jetpack Compose, MVI).<br>
+  🔗 <b><a href="https://github.com/Rome-Squad/Tudee-App">Tudee</a></b> -- Team project: task manager on SOLID principles with multi-layered MVI architecture and Arabic/English localization.<br>
   🛠️ <b>SmartBankSearch</b> -- on-premises bilingual RAG search platform for the National Bank of Egypt (private / client-owned).<br>
   🛠️ <b>TAM -- Travel Agency Management System</b> -- multi-tenant Next.js SaaS for travel agencies at IteckPro (company-owned).
 </p>
@@ -109,8 +110,21 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohamed056&show_icons=true&theme=dark" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=AhmedMohamed056&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohamed056&show_icons=true&theme=dark&hide_border=false&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=AhmedMohamed056&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="165" alt="GitHub Streak" />
+</div>
+
+##
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohamed056&layout=compact&langs_count=8&theme=dark&hide_border=false&border_radius=5" height="165" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMohamed056&theme=react-dark&hide_border=true&bg_color=1F2229&color=A9FEF2&line=26C6DA&point=FFFFFF" height="165" alt="Contribution Graph" />
+</div>
+
+##
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedMohamed056&theme=darkhub&no-frame=true&row=1&column=7&margin-w=6&margin-h=6" width="100%" alt="GitHub Profile Trophy" />
 </div>
 
 ##
